@@ -1,0 +1,37 @@
+Task Log: Spring Boot Task Management API
+Day 1: 
+
+1. Created Spring Boot project in STS4
+
+2. Set up basic project structure and configured initial dependencies
+
+3. Created User and Task model classes
+
+4. Implemented in-memory repositories
+
+5. Developed UserService with authentication methods
+
+6. Created TaskService with CRUD operations
+
+7. Implemented JWT token provider and set up security configuration
+
+8. Developed AuthController (register/login endpoints)
+
+9. Created TaskController with all required endpoints
+
+10. Added user-specific task validation logic
+
+11. Tested API using Postman:
+
+12. User registration and login
+
+13. Task creation and retrieval
+
+14. Task updates and deletion
+
+15. Fixed minor bugs in authentication flow
+
+16. Final testing of all endpoints
+
+17. Project completion
+
